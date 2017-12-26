@@ -6,24 +6,6 @@ import AppBar from 'material-ui/AppBar';
 import Word from './words.json';
 import './App.css';
 
-// class App extends Component {
-//   render() {
-//     return (
-//       <div className="App">
-//         <header className="App-header">
-//           <img src={logo} className="App-logo" alt="logo" />
-//           <h1 className="App-title">Welcome to React</h1>
-//         </header>
-//         <p className="App-intro">
-//           <input />
-//         </p>
-//       </div>
-//     );
-//   }
-// }
-
-// export default App;
-
 const styles = {
   root: {
     display: 'flex',
@@ -31,8 +13,6 @@ const styles = {
     justifyContent: 'space-around',
   },
   gridList: {
-    // width: 500,
-    // height: 450,
     width: 400,
     height: 250,
     overflowY: 'auto',
@@ -56,7 +36,7 @@ render() {
         return item.word.indexOf(this.state.search) !== -1; 
       }
     );
-  var flower = filterList.map(function(item){
+  var filterData = filterList.map(function(item){
     if(item.ratio === -1){
       return null;
     } 
@@ -86,7 +66,7 @@ render() {
               onChange={this.updatedData.bind(this)}
             />
           </div>
-          <div style={styles.root}>{flower}</div>
+          <div style={styles.root}>{filterData}</div>
         </div>
       </MuiThemeProvider>
     );
