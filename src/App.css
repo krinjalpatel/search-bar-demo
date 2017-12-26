@@ -22,6 +22,13 @@
   font-size: large;
 }
 
+.searchBar {
+  /*float:right;*/
+  position: relative;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

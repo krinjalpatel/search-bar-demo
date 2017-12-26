@@ -1,0 +1,2528 @@
+[{
+		"id": 1,
+		"word": "abacus",
+		"variant": 1,
+		"meaning": "frame with balls for calculating",
+		"ratio": 0.9125
+	},
+	{
+		"id": 2,
+		"word": "abate",
+		"variant": 2,
+		"meaning": "subside or moderate",
+		"ratio": -1
+	},
+	{
+		"id": 3,
+		"word": "abdication",
+		"variant": 2,
+		"meaning": "giving up control authority",
+		"ratio": 1.10112359550562
+	},
+	{
+		"id": 5,
+		"word": "aberration",
+		"variant": 1,
+		"meaning": "straying away from what is normal",
+		"ratio": 0.859375
+	},
+	{
+		"id": 6,
+		"word": "abet",
+		"variant": 2,
+		"meaning": "help/encourage someone (in doing wrong)",
+		"ratio": 1.17714285714286
+	},
+	{
+		"id": 7,
+		"word": "abeyance",
+		"variant": 1,
+		"meaning": "suspended action",
+		"ratio": 0.97
+	},
+	{
+		"id": 8,
+		"word": "abhor",
+		"variant": 2,
+		"meaning": "to hate to detest",
+		"ratio": 1.20872274143302
+	},
+	{
+		"id": 9,
+		"word": "abide",
+		"variant": 2,
+		"meaning": "be faithful to endure",
+		"ratio": 1.1063829787234
+	},
+	{
+		"id": 10,
+		"word": "abjure",
+		"variant": 2,
+		"meaning": "promise or swear to give up",
+		"ratio": 0.666666666666667
+	},
+	{
+		"id": 11,
+		"word": "abraded",
+		"variant": 2,
+		"meaning": "rubbed off, worn away by friction†",
+		"ratio": 0.75
+	},
+	{
+		"id": 12,
+		"word": "abroad",
+		"variant": 4,
+		"meaning": "to or in another country",
+		"ratio": 0.9375
+	},
+	{
+		"id": 13,
+		"word": "abrogate",
+		"variant": 2,
+		"meaning": "repeal or annul by authority",
+		"ratio": 0.75
+	},
+	{
+		"id": 14,
+		"word": "abrupt",
+		"variant": 3,
+		"meaning": "quick, without warning",
+		"ratio": 0.737874097007224
+	},
+	{
+		"id": 15,
+		"word": "abscond",
+		"variant": 2,
+		"meaning": "depart secretly and hide",
+		"ratio": 0.411231884057971
+	},
+	{
+		"id": 16,
+		"word": "abstemious",
+		"variant": 3,
+		"meaning": "sparing in eating and drinking; temperate",
+		"ratio": 0.806282722513089
+	},
+	{
+		"id": 17,
+		"word": "abstruse",
+		"variant": 3,
+		"meaning": "difficult to comprehend obscure",
+		"ratio": 1.05610561056106
+	},
+	{
+		"id": 18,
+		"word": "abut",
+		"variant": 2,
+		"meaning": "have a common boundary with",
+		"ratio": 0.612765957446808
+	},
+	{
+		"id": 19,
+		"word": "abysmal",
+		"variant": 3,
+		"meaning": "bottomless extreme",
+		"ratio": 0.75
+	},
+	{
+		"id": 20,
+		"word": "acarpous",
+		"variant": 3,
+		"meaning": "effete, no longer fertile worn out†",
+		"ratio": 0.751953125
+	},
+	{
+		"id": 21,
+		"word": "accelerate",
+		"variant": 2,
+		"meaning": "to go faster",
+		"ratio": 0.748571428571428
+	},
+	{
+		"id": 22,
+		"word": "acceptable",
+		"variant": 3,
+		"meaning": "allowable or satisfactory",
+		"ratio": 1
+	},
+	{
+		"id": 23,
+		"word": "acclaim",
+		"variant": 1,
+		"meaning": "enthusiastic approval",
+		"ratio": 1.41538461538462
+	},
+	{
+		"id": 24,
+		"word": "accolade",
+		"variant": 1,
+		"meaning": "praise approval",
+		"ratio": 1.42450142450142
+	},
+	{
+		"id": 25,
+		"word": "accretion",
+		"variant": 1,
+		"meaning": "any gradual increase in size, as through growth or external addition",
+		"ratio": 0.751428571428572
+	},
+	{
+		"id": 26,
+		"word": "accrue",
+		"variant": 2,
+		"meaning": "accumulate",
+		"ratio": -1
+	},
+	{
+		"id": 27,
+		"word": "accurate",
+		"variant": 3,
+		"meaning": "careful and exact",
+		"ratio": 1
+	},
+	{
+		"id": 28,
+		"word": "acquiesce",
+		"variant": 2,
+		"meaning": "assent; agree without protesting",
+		"ratio": 0.5625
+	},
+	{
+		"id": 29,
+		"word": "acrid",
+		"variant": 3,
+		"meaning": "sharp; bitterly pungent",
+		"ratio": 0.8
+	},
+	{
+		"id": 30,
+		"word": "acrimony",
+		"variant": 3,
+		"meaning": "bitter in words or manner",
+		"ratio": -1
+	},
+	{
+		"id": 31,
+		"word": "adamant",
+		"variant": 3,
+		"meaning": "kind of stone inflexible",
+		"ratio": 0.952380952380952
+	},
+	{
+		"id": 32,
+		"word": "admonish",
+		"variant": 2,
+		"meaning": "warn; reprove",
+		"ratio": 1.03801169590643
+	},
+	{
+		"id": 33,
+		"word": "admonitory",
+		"variant": 3,
+		"meaning": "containing warning",
+		"ratio": -1
+	},
+	{
+		"id": 34,
+		"word": "adorn",
+		"variant": 2,
+		"meaning": "add beauty decorate",
+		"ratio": 1.41843971631206
+	},
+	{
+		"id": 35,
+		"word": "adulterate",
+		"variant": 2,
+		"meaning": "make impure by adding inferior or tainted substances.",
+		"ratio": 0.665454545454545
+	},
+	{
+		"id": 36,
+		"word": "advanced",
+		"variant": 3,
+		"meaning": "ahead of current thought",
+		"ratio": 0.666666666666667
+	},
+	{
+		"id": 37,
+		"word": "advent",
+		"variant": 1,
+		"meaning": "the coming or appearance of something",
+		"ratio": 1.09489051094891
+	},
+	{
+		"id": 38,
+		"word": "adverse",
+		"variant": 3,
+		"meaning": "displeasing, objectionable",
+		"ratio": 0.775656324582339
+	},
+	{
+		"id": 39,
+		"word": "advice",
+		"variant": 1,
+		"meaning": "a recommendation given by someone not associated with the problem or situation",
+		"ratio": 0.931372549019608
+	},
+	{
+		"id": 40,
+		"word": "aesthetic",
+		"variant": 3,
+		"meaning": "artistic; dealing with or capable of appreciating the beautiful",
+		"ratio": -1
+	},
+	{
+		"id": 41,
+		"word": "affable",
+		"variant": 3,
+		"meaning": "polite and friendly",
+		"ratio": 0.666
+	},
+	{
+		"id": 42,
+		"word": "affinity",
+		"variant": 1,
+		"meaning": "close connection relationship",
+		"ratio": -1
+	},
+	{
+		"id": 43,
+		"word": "aggravate",
+		"variant": 2,
+		"meaning": "make worse irritate",
+		"ratio": 0.911111111111111
+	},
+	{
+		"id": 44,
+		"word": "agile",
+		"variant": 3,
+		"meaning": "to move in a quick and easy way",
+		"ratio": 0.720588235294118
+	},
+	{
+		"id": 45,
+		"word": "agog",
+		"variant": 3,
+		"meaning": "eager/excited",
+		"ratio": 0.793478260869565
+	},
+	{
+		"id": 46,
+		"word": "ail",
+		"variant": 2,
+		"meaning": "trouble be ill",
+		"ratio": 1.33333333333333
+	},
+	{
+		"id": 47,
+		"word": "alacrity",
+		"variant": 1,
+		"meaning": "cheerful promptness; eagerness.",
+		"ratio": 0.713125
+	},
+	{
+		"id": 48,
+		"word": "albeit",
+		"variant": 5,
+		"meaning": "regardless of the fact",
+		"ratio": 1
+	},
+	{
+		"id": 49,
+		"word": "alcove",
+		"variant": 1,
+		"meaning": "recess/partially enclosed place",
+		"ratio": 0.75
+	},
+	{
+		"id": 50,
+		"word": "ale",
+		"variant": 1,
+		"meaning": "fermented alcoholic beverage similar to but heavier than beer",
+		"ratio": 1.27494692144374
+	},
+	{
+		"id": 51,
+		"word": "allegiance",
+		"variant": 1,
+		"meaning": "duty support loyalty",
+		"ratio": 0.915384615384615
+	},
+	{
+		"id": 52,
+		"word": "alleviate",
+		"variant": 2,
+		"meaning": "relieve.",
+		"ratio": 0.665454545454545
+	},
+	{
+		"id": 53,
+		"word": "alloy",
+		"variant": 1,
+		"meaning": "to debase by mixing with something inferior",
+		"ratio": 1
+	},
+	{
+		"id": 54,
+		"word": "aloof",
+		"variant": 4,
+		"meaning": "reserved indifferent",
+		"ratio": -1
+	},
+	{
+		"id": 55,
+		"word": "alter",
+		"variant": 2,
+		"meaning": "to change",
+		"ratio": 0.663529411764706
+	},
+	{
+		"id": 56,
+		"word": "amalgamate",
+		"variant": 2,
+		"meaning": "mix, combine, unite societies†",
+		"ratio": 1.14093959731544
+	},
+	{
+		"id": 57,
+		"word": "amaze",
+		"variant": 2,
+		"meaning": "to fill with great surprise",
+		"ratio": 0.7475
+	},
+	{
+		"id": 58,
+		"word": "ambidextrous",
+		"variant": 3,
+		"meaning": "able to use the left hand or the right equally well",
+		"ratio": 0.672
+	},
+	{
+		"id": 59,
+		"word": "ambiguous",
+		"variant": 3,
+		"meaning": "doubtful uncertain",
+		"ratio": 1.17
+	},
+	{
+		"id": 60,
+		"word": "ambivalence",
+		"variant": 1,
+		"meaning": "the state of having contradictory or conflicting emotional attitudes",
+		"ratio": 1.52765957446809
+	},
+	{
+		"id": 61,
+		"word": "ambrosial",
+		"variant": 1,
+		"meaning": "extremely pleasing to taste",
+		"ratio": -1
+	},
+	{
+		"id": 62,
+		"word": "ameliorate",
+		"variant": 2,
+		"meaning": "improve make better",
+		"ratio": 0.73469387755102
+	},
+	{
+		"id": 63,
+		"word": "amorphous",
+		"variant": 3,
+		"meaning": "formless; lacking shape or definition",
+		"ratio": -1
+	},
+	{
+		"id": 64,
+		"word": "amortize",
+		"variant": 2,
+		"meaning": "end a debt in installments",
+		"ratio": 0.825545171339564
+	},
+	{
+		"id": 65,
+		"word": "anachronism",
+		"variant": 1,
+		"meaning": "something or someone misplaced in time",
+		"ratio": 1.20754716981132
+	},
+	{
+		"id": 66,
+		"word": "analogous",
+		"variant": 3,
+		"meaning": "comparable",
+		"ratio": 0.608888888888889
+	},
+	{
+		"id": 67,
+		"word": "analyze",
+		"variant": 2,
+		"meaning": "to study something carefully",
+		"ratio": 0.924528301886792
+	},
+	{
+		"id": 68,
+		"word": "anarchy",
+		"variant": 1,
+		"meaning": "absence of governing body",
+		"ratio": 1.26
+	},
+	{
+		"id": 69,
+		"word": "ancient",
+		"variant": 3,
+		"meaning": "something from a long time ago",
+		"ratio": 0.75
+	},
+	{
+		"id": 70,
+		"word": "anguish",
+		"variant": 1,
+		"meaning": "severe suffering",
+		"ratio": 1.30201342281879
+	},
+	{
+		"id": 71,
+		"word": "animosity",
+		"variant": 1,
+		"meaning": "strong dislike",
+		"ratio": 0.789090909090909
+	},
+	{
+		"id": 72,
+		"word": "annoying",
+		"variant": 3,
+		"meaning": "disturbing to a person",
+		"ratio": 0.663333333333333
+	},
+	{
+		"id": 73,
+		"word": "anomalous",
+		"variant": 3,
+		"meaning": "abnormal; irregular",
+		"ratio": 0.934782608695652
+	},
+	{
+		"id": 74,
+		"word": "anomaly",
+		"variant": 1,
+		"meaning": "irregularity",
+		"ratio": 0.934782608695652
+	},
+	{
+		"id": 75,
+		"word": "antediluvian",
+		"variant": 3,
+		"meaning": "antiquated; extremely ancient",
+		"ratio": 0.663333333333333
+	},
+	{
+		"id": 76,
+		"word": "anticipate",
+		"variant": 2,
+		"meaning": "prepare for something ahead of",
+		"ratio": 1.22950819672131
+	},
+	{
+		"id": 77,
+		"word": "antidote",
+		"variant": 1,
+		"meaning": "medicine used against a poison or a disease",
+		"ratio": -1
+	},
+	{
+		"id": 78,
+		"word": "antipathy",
+		"variant": 1,
+		"meaning": "aversion; dislike",
+		"ratio": -1
+	},
+	{
+		"id": 79,
+		"word": "antithetical",
+		"variant": 3,
+		"meaning": "direct opposing",
+		"ratio": 0.855384615384615
+	},
+	{
+		"id": 80,
+		"word": "apartheid",
+		"variant": 1,
+		"meaning": "brutal racial discrimination",
+		"ratio": 0.770392749244713
+	},
+	{
+		"id": 81,
+		"word": "apathy",
+		"variant": 1,
+		"meaning": "lack of caring",
+		"ratio": 1
+	},
+	{
+		"id": 82,
+		"word": "aplomb",
+		"variant": 1,
+		"meaning": "self-confidence",
+		"ratio": 1.1304347826087
+	},
+	{
+		"id": 83,
+		"word": "apocryphal",
+		"variant": 3,
+		"meaning": "untrue; made up",
+		"ratio": 0.926666666666667
+	},
+	{
+		"id": 84,
+		"word": "apostate",
+		"variant": 1,
+		"meaning": "one who abandons long-held religious or political convictions",
+		"ratio": 1.25454545454545
+	},
+	{
+		"id": 85,
+		"word": "apotheosis",
+		"variant": 1,
+		"meaning": "deification glorification to godliness",
+		"ratio": 0.746153846153846
+	},
+	{
+		"id": 86,
+		"word": "apparent",
+		"variant": 3,
+		"meaning": "to be clear in meaning; easily understood",
+		"ratio": 0.783289817232376
+	},
+	{
+		"id": 87,
+		"word": "appealing",
+		"variant": 3,
+		"meaning": "attractive or interesting",
+		"ratio": 0.75
+	},
+	{
+		"id": 88,
+		"word": "appease",
+		"variant": 2,
+		"meaning": "pacify or soothe",
+		"ratio": 0.825
+	},
+	{
+		"id": 89,
+		"word": "apprehensive",
+		"variant": 3,
+		"meaning": "grasping understanding fear unhappy feeling about future",
+		"ratio": 0.66625
+	},
+	{
+		"id": 90,
+		"word": "apprise",
+		"variant": 2,
+		"meaning": "inform",
+		"ratio": 0.660416666666667
+	},
+	{
+		"id": 91,
+		"word": "approbation",
+		"variant": 1,
+		"meaning": "approval",
+		"ratio": -1
+	},
+	{
+		"id": 92,
+		"word": "appropriate",
+		"variant": 3,
+		"meaning": "correct or good for the purpose",
+		"ratio": 1.23076923076923
+	},
+	{
+		"id": 93,
+		"word": "apropos",
+		"variant": 4,
+		"meaning": "appropriate to the situation apt",
+		"ratio": 1.23076923076923
+	},
+	{
+		"id": 94,
+		"word": "apt",
+		"variant": 3,
+		"meaning": "suitable for the circumstance or purpose; appropriate",
+		"ratio": 1.23076923076923
+	},
+	{
+		"id": 95,
+		"word": "arabesque",
+		"variant": 1,
+		"meaning": "a complex ornate design",
+		"ratio": 0.694444444444444
+	},
+	{
+		"id": 96,
+		"word": "arable",
+		"variant": 3,
+		"meaning": "fit for growing crops",
+		"ratio": 0.633333333333333
+	},
+	{
+		"id": 97,
+		"word": "arbitrary",
+		"variant": 3,
+		"meaning": "an action or decision made with little thought",
+		"ratio": -1
+	},
+	{
+		"id": 98,
+		"word": "arboreal",
+		"variant": 3,
+		"meaning": "of connected with trees",
+		"ratio": -1
+	},
+	{
+		"id": 99,
+		"word": "ardent",
+		"variant": 3,
+		"meaning": "intense; passionate; zealous",
+		"ratio": 0.6
+	},
+	{
+		"id": 100,
+		"word": "ardor",
+		"variant": 1,
+		"meaning": "enthusiasm",
+		"ratio": -1
+	},
+	{
+		"id": 101,
+		"word": "arduous",
+		"variant": 3,
+		"meaning": "hard; strenuous",
+		"ratio": 1.2325
+	},
+	{
+		"id": 102,
+		"word": "argot",
+		"variant": 1,
+		"meaning": "slang or jargon peculiar to a particular group",
+		"ratio": 0.863309352517986
+	},
+	{
+		"id": 103,
+		"word": "arrant",
+		"variant": 3,
+		"meaning": "in the highest degree",
+		"ratio": 1.38375
+	},
+	{
+		"id": 104,
+		"word": "arrogance",
+		"variant": 1,
+		"meaning": "proud superior manner of behaviour",
+		"ratio": 0.946666666666667
+	},
+	{
+		"id": 105,
+		"word": "articulate",
+		"variant": 3,
+		"meaning": "speak distinctly connect by joints",
+		"ratio": 0.668333333333333
+	},
+	{
+		"id": 106,
+		"word": "artless",
+		"variant": 3,
+		"meaning": "without guile; open and honest.",
+		"ratio": 1.00833333333333
+	},
+	{
+		"id": 107,
+		"word": "ascend",
+		"variant": 2,
+		"meaning": "go or come up",
+		"ratio": 0.751351351351351
+	},
+	{
+		"id": 108,
+		"word": "ascertain",
+		"variant": 2,
+		"meaning": "get to know",
+		"ratio": -1
+	},
+	{
+		"id": 109,
+		"word": "ascetic",
+		"variant": 3,
+		"meaning": "practicing self-denial; austere",
+		"ratio": 1.31122448979592
+	},
+	{
+		"id": 110,
+		"word": "ascribe",
+		"variant": 2,
+		"meaning": "consider to be the origin of or belonging to",
+		"ratio": 1.3595166163142
+	},
+	{
+		"id": 111,
+		"word": "aseptic",
+		"variant": 3,
+		"meaning": "surgically clean",
+		"ratio": 0.89873417721519
+	},
+	{
+		"id": 112,
+		"word": "asperity",
+		"variant": 1,
+		"meaning": "roughness harshness ill temper irritability",
+		"ratio": 1.2589928057554
+	},
+	{
+		"id": 113,
+		"word": "aspersion",
+		"variant": 1,
+		"meaning": "slander",
+		"ratio": 1
+	},
+	{
+		"id": 114,
+		"word": "assail",
+		"variant": 2,
+		"meaning": "with attack violently",
+		"ratio": 0.714285714285714
+	},
+	{
+		"id": 115,
+		"word": "assert",
+		"variant": 1,
+		"meaning": "to express or defend oneself strongly",
+		"ratio": 1.01980198019802
+	},
+	{
+		"id": 116,
+		"word": "assiduous",
+		"variant": 3,
+		"meaning": "diligent",
+		"ratio": -1
+	},
+	{
+		"id": 117,
+		"word": "assuage",
+		"variant": 2,
+		"meaning": "ease or lessen (pain); satisfy (hunger)",
+		"ratio": 0.56
+	},
+	{
+		"id": 118,
+		"word": "asterisk",
+		"variant": 1,
+		"meaning": "the mark * (e.g.. omitted letters)",
+		"ratio": 0.816666666666667
+	},
+	{
+		"id": 119,
+		"word": "astounding",
+		"variant": 3,
+		"meaning": "very surprising",
+		"ratio": 0.625
+	},
+	{
+		"id": 120,
+		"word": "astringent",
+		"variant": 3,
+		"meaning": "substance that shrinks",
+		"ratio": 1
+	},
+	{
+		"id": 121,
+		"word": "astute",
+		"variant": 3,
+		"meaning": "very intelligent; smart",
+		"ratio": 1.05857740585774
+	},
+	{
+		"id": 122,
+		"word": "atonement",
+		"variant": 1,
+		"meaning": "Amends or reparation made for an injury or wrong",
+		"ratio": 1.41176470588235
+	},
+	{
+		"id": 123,
+		"word": "atrophy",
+		"variant": 2,
+		"meaning": "waste away",
+		"ratio": 0.634453781512605
+	},
+	{
+		"id": 124,
+		"word": "attenuate",
+		"variant": 2,
+		"meaning": "make thin; weaken",
+		"ratio": 1.33136094674556
+	},
+	{
+		"id": 125,
+		"word": "attractive",
+		"variant": 3,
+		"meaning": "calling attention to, pleasing",
+		"ratio": 1
+	},
+	{
+		"id": 126,
+		"word": "attune",
+		"variant": 2,
+		"meaning": "bring into harmony",
+		"ratio": 0.668888888888889
+	},
+	{
+		"id": 127,
+		"word": "audacious",
+		"variant": 3,
+		"meaning": "daring; bold",
+		"ratio": 0.703092783505155
+	},
+	{
+		"id": 128,
+		"word": "augury",
+		"variant": 1,
+		"meaning": "omen sign",
+		"ratio": 0.749606299212598
+	},
+	{
+		"id": 129,
+		"word": "august",
+		"variant": 3,
+		"meaning": "majestic venerable",
+		"ratio": 1.03673469387755
+	},
+	{
+		"id": 130,
+		"word": "auspicious",
+		"variant": 3,
+		"meaning": "favorable successful prosperous",
+		"ratio": 0.884408602150538
+	},
+	{
+		"id": 131,
+		"word": "austere",
+		"variant": 3,
+		"meaning": "forbiddingly stern",
+		"ratio": 0.796666666666667
+	},
+	{
+		"id": 132,
+		"word": "autonomous",
+		"variant": 3,
+		"meaning": "by itself, with no association",
+		"ratio": 0.664383561643836
+	},
+	{
+		"id": 133,
+		"word": "auxiliary",
+		"variant": 3,
+		"meaning": "helping, supporting†",
+		"ratio": 0.66625
+	},
+	{
+		"id": 134,
+		"word": "avarice",
+		"variant": 1,
+		"meaning": "greediness for wealth",
+		"ratio": 0.8025
+	},
+	{
+		"id": 135,
+		"word": "aver",
+		"variant": 2,
+		"meaning": "state confidently",
+		"ratio": 1.42348754448399
+	},
+	{
+		"id": 136,
+		"word": "aversion",
+		"variant": 1,
+		"meaning": "strong dislike",
+		"ratio": 1.20872274143302
+	},
+	{
+		"id": 137,
+		"word": "avert",
+		"variant": 2,
+		"meaning": "prevent; turn away",
+		"ratio": 0.666129032258064
+	},
+	{
+		"id": 138,
+		"word": "aviary",
+		"variant": 1,
+		"meaning": "enclosure for birds",
+		"ratio": 1
+	},
+	{
+		"id": 139,
+		"word": "avid",
+		"variant": 3,
+		"meaning": "eager greedy",
+		"ratio": 0.824427480916031
+	},
+	{
+		"id": 140,
+		"word": "avow",
+		"variant": 2,
+		"meaning": "admit. Declare openly",
+		"ratio": 0.581967213114754
+	},
+	{
+		"id": 141,
+		"word": "baffle",
+		"variant": 2,
+		"meaning": "to confuse to a point at which no progress can be made",
+		"ratio": 0.911854103343465
+	},
+	{
+		"id": 142,
+		"word": "baleful",
+		"variant": 3,
+		"meaning": "harmful ominous causing evil",
+		"ratio": 1.66859623733719
+	},
+	{
+		"id": 143,
+		"word": "balk",
+		"variant": 2,
+		"meaning": "obstacle, purposely to get on the way of†",
+		"ratio": 0.864161849710983
+	},
+	{
+		"id": 144,
+		"word": "banal",
+		"variant": 3,
+		"meaning": "hackneyed; commonplace; trite; lacking originality",
+		"ratio": 0.6708984375
+	},
+	{
+		"id": 145,
+		"word": "baneful",
+		"variant": 3,
+		"meaning": "causing harm or ruin, pernicious, destructive†",
+		"ratio": 1.16402116402116
+	},
+	{
+		"id": 146,
+		"word": "barrage",
+		"variant": 1,
+		"meaning": "artificial obstacle built across a river",
+		"ratio": 0.633802816901408
+	},
+	{
+		"id": 147,
+		"word": "barren",
+		"variant": 3,
+		"meaning": "not good enough unable to have young ones without value",
+		"ratio": 1.42483660130719
+	},
+	{
+		"id": 148,
+		"word": "bask",
+		"variant": 2,
+		"meaning": "in enjoy warmth and light",
+		"ratio": 0.663129973474801
+	},
+	{
+		"id": 149,
+		"word": "bear",
+		"variant": 2,
+		"meaning": "to produce, to endure ",
+		"ratio": -1
+	},
+	{
+		"id": 150,
+		"word": "beatify",
+		"variant": 2,
+		"meaning": "to bless make happy or ascribe a virtue to",
+		"ratio": 1.14068441064639
+	},
+	{
+		"id": 151,
+		"word": "bedizen",
+		"variant": 2,
+		"meaning": "to adorn especially in a cheap showy manner",
+		"ratio": 1.49700598802395
+	},
+	{
+		"id": 152,
+		"word": "beguile",
+		"variant": 2,
+		"meaning": "mislead or delude; pass time",
+		"ratio": 0.845
+	},
+	{
+		"id": 153,
+		"word": "belabor",
+		"variant": 2,
+		"meaning": "beat hard",
+		"ratio": 0.708888888888889
+	},
+	{
+		"id": 154,
+		"word": "belie",
+		"variant": 2,
+		"meaning": "contradict ; give a false impression",
+		"ratio": 0.841666666666667
+	},
+	{
+		"id": 155,
+		"word": "beneficent",
+		"variant": 3,
+		"meaning": "kindly; doing good",
+		"ratio": 1.01206896551724
+	},
+	{
+		"id": 156,
+		"word": "bequeath",
+		"variant": 2,
+		"meaning": "Ieave to someone by a will; hand down",
+		"ratio": 0.6671875
+	},
+	{
+		"id": 157,
+		"word": "bleak",
+		"variant": 3,
+		"meaning": "cold or cheerless; unlikely to be favorable",
+		"ratio": 0.695384615384615
+	},
+	{
+		"id": 158,
+		"word": "blighted",
+		"variant": 3,
+		"meaning": "suffering from a disease; destroyed",
+		"ratio": 0.666
+	},
+	{
+		"id": 159,
+		"word": "blur",
+		"variant": 2,
+		"meaning": "to make something difficult to see",
+		"ratio": 0.996677740863787
+	},
+	{
+		"id": 160,
+		"word": "bolster",
+		"variant": 2,
+		"meaning": "support; reinforce.",
+		"ratio": 0.898172323759791
+	},
+	{
+		"id": 161,
+		"word": "bombastic",
+		"variant": 3,
+		"meaning": "pompous; using inflated language",
+		"ratio": 0.75
+	},
+	{
+		"id": 162,
+		"word": "boorish",
+		"variant": 3,
+		"meaning": "rude; insensitive",
+		"ratio": 0.755
+	},
+	{
+		"id": 163,
+		"word": "burgeon",
+		"variant": 2,
+		"meaning": "grow forth; send out buds",
+		"ratio": 0.75
+	},
+	{
+		"id": 164,
+		"word": "burnish",
+		"variant": 2,
+		"meaning": "make shiny by rubbing",
+		"ratio": 0.750551876379691
+	},
+	{
+		"id": 165,
+		"word": "buttress",
+		"variant": 2,
+		"meaning": "support; prop up",
+		"ratio": 0.75
+	},
+	{
+		"id": 166,
+		"word": "cacophonous",
+		"variant": 3,
+		"meaning": "discordant; inharmonious",
+		"ratio": -1
+	},
+	{
+		"id": 167,
+		"word": "abate",
+		"variant": 2,
+		"meaning": "subside or moderate",
+		"ratio": -1
+	},
+	{
+		"id": 168,
+		"word": "capricious",
+		"variant": 3,
+		"meaning": "unpredictable: fickle",
+		"ratio": 0.913333333333333
+	},
+	{
+		"id": 169,
+		"word": "cardiologist",
+		"variant": 1,
+		"meaning": "doctor specializing in the heart",
+		"ratio": -1
+	},
+	{
+		"id": 170,
+		"word": "carping",
+		"variant": 3,
+		"meaning": "finding fault",
+		"ratio": 1.33689839572193
+	},
+	{
+		"id": 171,
+		"word": "castigation",
+		"variant": 1,
+		"meaning": "punishment; severe criticism",
+		"ratio": 0.75
+	},
+	{
+		"id": 172,
+		"word": "catalyst",
+		"variant": 1,
+		"meaning": "agent that brings about a chemical change while it remains unaffected and unchanged",
+		"ratio": -1
+	},
+	{
+		"id": 173,
+		"word": "caustic",
+		"variant": 3,
+		"meaning": "burning; sarcastically biting",
+		"ratio": 1.8
+	},
+	{
+		"id": 174,
+		"word": "caution",
+		"variant": 2,
+		"meaning": "to alert someone of danger",
+		"ratio": 0.772
+	},
+	{
+		"id": 175,
+		"word": "celebrated",
+		"variant": 3,
+		"meaning": "acclaimed, well-known",
+		"ratio": 0.752895752895753
+	},
+	{
+		"id": 176,
+		"word": "certitude",
+		"variant": 1,
+		"meaning": "certainty",
+		"ratio": 0.895
+	},
+	{
+		"id": 177,
+		"word": "challenge",
+		"variant": 1,
+		"meaning": "an invitation to compete",
+		"ratio": 0.665454545454545
+	},
+	{
+		"id": 178,
+		"word": "charlatan",
+		"variant": 1,
+		"meaning": "quack; pretender to knowledge",
+		"ratio": 0.563218390804598
+	},
+	{
+		"id": 179,
+		"word": "chicanery",
+		"variant": 1,
+		"meaning": "trickery; deception",
+		"ratio": 0.933333333333333
+	},
+	{
+		"id": 180,
+		"word": "chiefly",
+		"variant": 4,
+		"meaning": "most importantly",
+		"ratio": 1.13095238095238
+	},
+	{
+		"id": 181,
+		"word": "circumlocution",
+		"variant": 1,
+		"meaning": "indirect or roundabout expression",
+		"ratio": 0.628975265017668
+	},
+	{
+		"id": 182,
+		"word": "clarify",
+		"variant": 2,
+		"meaning": "to make more easily understood",
+		"ratio": 0.372854914196568
+	},
+	{
+		"id": 183,
+		"word": "clichÈ",
+		"variant": 1,
+		"meaning": "phrase dulled in meaning by repetition",
+		"ratio": 0.8559670781893
+	},
+	{
+		"id": 184,
+		"word": "coagulate",
+		"variant": 2,
+		"meaning": "thicken; congeal; clot",
+		"ratio": 0.750524109014675
+	},
+	{
+		"id": 185,
+		"word": "coalesce",
+		"variant": 2,
+		"meaning": "combine; fuse",
+		"ratio": 0.902777777777778
+	},
+	{
+		"id": 186,
+		"word": "coarse",
+		"variant": 3,
+		"meaning": "not fine or smooth",
+		"ratio": 0.75
+	},
+	{
+		"id": 187,
+		"word": "coda",
+		"variant": 1,
+		"meaning": "concluding section of a musical or literary composition",
+		"ratio": 0.825
+	},
+	{
+		"id": 188,
+		"word": "cogent",
+		"variant": 3,
+		"meaning": "compelling belief or assent; forcefully convincing",
+		"ratio": 0.896174863387978
+	},
+	{
+		"id": 189,
+		"word": "colloquial",
+		"variant": 3,
+		"meaning": "pertaining to conversational or common speech",
+		"ratio": 1.32214765100671
+	},
+	{
+		"id": 190,
+		"word": "combustible",
+		"variant": 3,
+		"meaning": "easily burned",
+		"ratio": 0.782122905027933
+	},
+	{
+		"id": 191,
+		"word": "commensurate",
+		"variant": 3,
+		"meaning": "equal In extent",
+		"ratio": 0.676666666666667
+	},
+	{
+		"id": 192,
+		"word": "commonplace",
+		"variant": 3,
+		"meaning": "ordinary",
+		"ratio": 0.6708984375
+	},
+	{
+		"id": 193,
+		"word": "compendium",
+		"variant": 2,
+		"meaning": "brief, comprehensive summary",
+		"ratio": 1.2725
+	},
+	{
+		"id": 194,
+		"word": "complaisant",
+		"variant": 3,
+		"meaning": "trying to please; obliging",
+		"ratio": -1
+	},
+	{
+		"id": 195,
+		"word": "complementary",
+		"variant": 3,
+		"meaning": "serving to complete something",
+		"ratio": 0.997858672376874
+	},
+	{
+		"id": 196,
+		"word": "complex",
+		"variant": 3,
+		"meaning": "difficult to understand",
+		"ratio": 0.856375838926174
+	},
+	{
+		"id": 197,
+		"word": "compliant",
+		"variant": 3,
+		"meaning": "yielding; conforming to requirements",
+		"ratio": 1.2156862745098
+	},
+	{
+		"id": 198,
+		"word": "conceal",
+		"variant": 2,
+		"meaning": "to prevent from being seen or discovered",
+		"ratio": -1
+	},
+	{
+		"id": 199,
+		"word": "conciliatory",
+		"variant": 3,
+		"meaning": "reconciling; soothing",
+		"ratio": 1.33505154639175
+	},
+	{
+		"id": 200,
+		"word": "condone",
+		"variant": 2,
+		"meaning": "overlook; forgive; give tacit approval; excuse.",
+		"ratio": 0.757777777777778
+	},
+	{
+		"id": 201,
+		"word": "confluence",
+		"variant": 1,
+		"meaning": "flowing together; crowd",
+		"ratio": 0.75
+	},
+	{
+		"id": 202,
+		"word": "conform",
+		"variant": 2,
+		"meaning": "to follow established rules",
+		"ratio": 0.575498575498576
+	},
+	{
+		"id": 203,
+		"word": "confound",
+		"variant": 2,
+		"meaning": "confuse; puzzle",
+		"ratio": 1
+	},
+	{
+		"id": 204,
+		"word": "conjecture",
+		"variant": 2,
+		"meaning": "surmise; guess",
+		"ratio": 0.888888888888889
+	},
+	{
+		"id": 205,
+		"word": "connoisseur",
+		"variant": 1,
+		"meaning": "person competent to act as a judge of art, etc.; a lover of an art",
+		"ratio": 0.480628272251309
+	},
+	{
+		"id": 206,
+		"word": "constantly",
+		"variant": 4,
+		"meaning": "in an unchanging manner; happening all the time",
+		"ratio": 1
+	},
+	{
+		"id": 207,
+		"word": "contemporary",
+		"variant": 3,
+		"meaning": "modern, up-to-date",
+		"ratio": 1.42732558139535
+	},
+	{
+		"id": 208,
+		"word": "contention",
+		"variant": 1,
+		"meaning": "The act or an instance of striving in controversy or debate",
+		"ratio": 0.666
+	},
+	{
+		"id": 209,
+		"word": "contentious",
+		"variant": 3,
+		"meaning": "quarrelsome",
+		"ratio": 0.793333333333333
+	},
+	{
+		"id": 210,
+		"word": "contrite",
+		"variant": 3,
+		"meaning": "Feeling or expressing remorse; penitent",
+		"ratio": 1.09
+	},
+	{
+		"id": 211,
+		"word": "conundrum",
+		"variant": 1,
+		"meaning": "riddle: difficult problem",
+		"ratio": 1.00946372239748
+	},
+	{
+		"id": 212,
+		"word": "convenient",
+		"variant": 3,
+		"meaning": "easy to reach, near",
+		"ratio": 1.19047619047619
+	},
+	{
+		"id": 213,
+		"word": "conventional",
+		"variant": 3,
+		"meaning": "following accepted rules or standards",
+		"ratio": 0.664
+	},
+	{
+		"id": 214,
+		"word": "converge",
+		"variant": 2,
+		"meaning": "approach; tend to meet; come together",
+		"ratio": 1
+	},
+	{
+		"id": 215,
+		"word": "convoluted",
+		"variant": 3,
+		"meaning": "coiled around; involved; intricate",
+		"ratio": 0.898
+	},
+	{
+		"id": 216,
+		"word": "core",
+		"variant": 3,
+		"meaning": "the central or most important part",
+		"ratio": 0.867219917012448
+	},
+	{
+		"id": 217,
+		"word": "corrode",
+		"variant": 2,
+		"meaning": "destroy by chemical action",
+		"ratio": 0.768
+	},
+	{
+		"id": 218,
+		"word": "corrugated",
+		"variant": 3,
+		"meaning": "wrinkled; ridged",
+		"ratio": 0.420058139534884
+	},
+	{
+		"id": 219,
+		"word": "crack",
+		"variant": 1,
+		"meaning": "a thin opening caused by breaking",
+		"ratio": 0.750909090909091
+	},
+	{
+		"id": 220,
+		"word": "craven",
+		"variant": 3,
+		"meaning": "cowardly",
+		"ratio": 1.02739726027397
+	},
+	{
+		"id": 221,
+		"word": "creep",
+		"variant": 2,
+		"meaning": "to move slowly and quietly close to the ground",
+		"ratio": -1
+	},
+	{
+		"id": 222,
+		"word": "critical",
+		"variant": 3,
+		"meaning": "very serious or requiring careful judgement",
+		"ratio": -1
+	},
+	{
+		"id": 223,
+		"word": "crush",
+		"variant": 2,
+		"meaning": "to press together so as to completely distort the shape of the object",
+		"ratio": 0.782828282828283
+	},
+	{
+		"id": 224,
+		"word": "culpable",
+		"variant": 3,
+		"meaning": "deserving blame",
+		"ratio": 0.737704918032787
+	},
+	{
+		"id": 225,
+		"word": "curious",
+		"variant": 3,
+		"meaning": "eager to learn",
+		"ratio": -1
+	},
+	{
+		"id": 226,
+		"word": "currency",
+		"variant": 1,
+		"meaning": "a monetary unit",
+		"ratio": 0.670886075949367
+	},
+	{
+		"id": 227,
+		"word": "daunt",
+		"variant": 2,
+		"meaning": "intimidate; frighten",
+		"ratio": 0.757946210268949
+	},
+	{
+		"id": 228,
+		"word": "debilitate",
+		"variant": 2,
+		"meaning": "weaken; enfeeble",
+		"ratio": 0.618625277161862
+	},
+	{
+		"id": 229,
+		"word": "debunk",
+		"variant": 2,
+		"meaning": "expose as false, exaggerated, worthless, etc",
+		"ratio": 1.48222222222222
+	},
+	{
+		"id": 230,
+		"word": "deceptively",
+		"variant": 4,
+		"meaning": "misleadingly",
+		"ratio": 1.0431654676259
+	},
+	{
+		"id": 231,
+		"word": "decorum",
+		"variant": 1,
+		"meaning": "propriety; orderliness and good taste in manners",
+		"ratio": -1
+	},
+	{
+		"id": 232,
+		"word": "default",
+		"variant": 1,
+		"meaning": "failure to act; inaction or neglect",
+		"ratio": 0.785714285714286
+	},
+	{
+		"id": 233,
+		"word": "deference",
+		"variant": 1,
+		"meaning": "courteous regard for another's wish",
+		"ratio": -1
+	},
+	{
+		"id": 234,
+		"word": "dehydrate",
+		"variant": 2,
+		"meaning": "remove water from; dry out",
+		"ratio": 0.752895752895753
+	},
+	{
+		"id": 235,
+		"word": "deleterious",
+		"variant": 3,
+		"meaning": "harmful",
+		"ratio": 0.945833333333333
+	},
+	{
+		"id": 236,
+		"word": "delicate",
+		"variant": 3,
+		"meaning": "needing careful treatment, sensitive",
+		"ratio": 0.665
+	},
+	{
+		"id": 237,
+		"word": "delineate",
+		"variant": 2,
+		"meaning": "portray; depict; sketch",
+		"ratio": 0.75
+	},
+	{
+		"id": 238,
+		"word": "denigrate",
+		"variant": 2,
+		"meaning": "blacken",
+		"ratio": 1.01
+	},
+	{
+		"id": 239,
+		"word": "depose",
+		"variant": 2,
+		"meaning": "dethrone; remove from office",
+		"ratio": 0.771367521367521
+	},
+	{
+		"id": 240,
+		"word": "deride",
+		"variant": 2,
+		"meaning": "ridicule; make fun of",
+		"ratio": 0.696
+	},
+	{
+		"id": 241,
+		"word": "derivative",
+		"variant": 3,
+		"meaning": "unoriginal; obtained from another source",
+		"ratio": 0.625
+	},
+	{
+		"id": 242,
+		"word": "desiccate",
+		"variant": 2,
+		"meaning": "dry up",
+		"ratio": 1
+	},
+	{
+		"id": 243,
+		"word": "desolate",
+		"variant": 2,
+		"meaning": "Deserted of people and in a state of bleak and dismal emptiness.",
+		"ratio": -1
+	},
+	{
+		"id": 244,
+		"word": "desultory",
+		"variant": 3,
+		"meaning": "aimless; haphazard; digressing at random",
+		"ratio": 0.667400881057269
+	},
+	{
+		"id": 245,
+		"word": "detect",
+		"variant": 2,
+		"meaning": "to observe something",
+		"ratio": 0.8
+	},
+	{
+		"id": 246,
+		"word": "determined",
+		"variant": 3,
+		"meaning": "to be strong in one's opinion",
+		"ratio": 0.664
+	},
+	{
+		"id": 247,
+		"word": "deterrent",
+		"variant": 1,
+		"meaning": "something that discourages; hindrance",
+		"ratio": 0.686
+	},
+	{
+		"id": 248,
+		"word": "diatribe",
+		"variant": 1,
+		"meaning": "bitter scolding; invective",
+		"ratio": 0.802139037433155
+	},
+	{
+		"id": 249,
+		"word": "dichotomy",
+		"variant": 1,
+		"meaning": "split; branching into two parts (especially contradictory ones)",
+		"ratio": 1
+	},
+	{
+		"id": 250,
+		"word": "dictate",
+		"variant": 2,
+		"meaning": "to state demands with the power to enforce",
+		"ratio": 1.27350427350427
+	},
+	{
+		"id": 251,
+		"word": "diffidence",
+		"variant": 1,
+		"meaning": "lacking confidence in one's own ability, worth, or fitness; timid; shy",
+		"ratio": 1.23239436619718
+	},
+	{
+		"id": 252,
+		"word": "diffuse",
+		"variant": 3,
+		"meaning": "wordy; rambling; spread out (like a gas)",
+		"ratio": 1.48459383753501
+	},
+	{
+		"id": 253,
+		"word": "digression",
+		"variant": 1,
+		"meaning": "wandering away from the subject",
+		"ratio": 0.815625
+	},
+	{
+		"id": 254,
+		"word": "dilatory",
+		"variant": 3,
+		"meaning": "delaying",
+		"ratio": 0.815261044176707
+	},
+	{
+		"id": 255,
+		"word": "dirge",
+		"variant": 1,
+		"meaning": "lament with music",
+		"ratio": 0.665461121157324
+	},
+	{
+		"id": 256,
+		"word": "disabuse",
+		"variant": 2,
+		"meaning": "correct a false impression; undeceive",
+		"ratio": 1.26315789473684
+	},
+	{
+		"id": 257,
+		"word": "disapproval",
+		"variant": 1,
+		"meaning": "the act of disagreeing",
+		"ratio": -1
+	},
+	{
+		"id": 258,
+		"word": "discerning",
+		"variant": 3,
+		"meaning": "mentally quick and observant; having good judgement",
+		"ratio": 0.75
+	},
+	{
+		"id": 259,
+		"word": "discordant",
+		"variant": 3,
+		"meaning": "insight",
+		"ratio": 1.08297872340426
+	},
+	{
+		"id": 260,
+		"word": "discourse",
+		"variant": 1,
+		"meaning": "formal discussion; conversation",
+		"ratio": 1.104
+	},
+	{
+		"id": 261,
+		"word": "discredit",
+		"variant": 2,
+		"meaning": "defame; destroy confidence in",
+		"ratio": -1
+	},
+	{
+		"id": 262,
+		"word": "discrepancy",
+		"variant": 1,
+		"meaning": "lack of consistency; difference",
+		"ratio": 0.797153024911032
+	},
+	{
+		"id": 263,
+		"word": "discrete",
+		"variant": 3,
+		"meaning": "separate; unconnected",
+		"ratio": -1
+	},
+	{
+		"id": 264,
+		"word": "disingenuous",
+		"variant": 3,
+		"meaning": "not naive; sophisticated",
+		"ratio": 0.783050847457627
+	},
+	{
+		"id": 265,
+		"word": "disinterested",
+		"variant": 3,
+		"meaning": "unprejudiced",
+		"ratio": 0.688034188034188
+	},
+	{
+		"id": 266,
+		"word": "disjointed",
+		"variant": 3,
+		"meaning": "disconnected",
+		"ratio": 0.8275
+	},
+	{
+		"id": 267,
+		"word": "dismiss",
+		"variant": 2,
+		"meaning": "eliminate from consideration; reject",
+		"ratio": 1.00341296928328
+	},
+	{
+		"id": 268,
+		"word": "disparage",
+		"variant": 2,
+		"meaning": "belittle; criticize",
+		"ratio": -1
+	},
+	{
+		"id": 269,
+		"word": "disparate",
+		"variant": 3,
+		"meaning": "basically different; unrelated",
+		"ratio": 0.670056497175141
+	},
+	{
+		"id": 270,
+		"word": "disquiet",
+		"variant": 2,
+		"meaning": "make uneasy or anxious",
+		"ratio": 1.15789473684211
+	},
+	{
+		"id": 271,
+		"word": "disruptive",
+		"variant": 3,
+		"meaning": "causing confusion and interruption",
+		"ratio": 0.657894736842105
+	},
+	{
+		"id": 272,
+		"word": "dissemble",
+		"variant": 2,
+		"meaning": "disguise; pretend",
+		"ratio": -1
+	},
+	{
+		"id": 273,
+		"word": "disseminate",
+		"variant": 2,
+		"meaning": "distribute; spread; scatter (like seeds)",
+		"ratio": 0.794392523364486
+	},
+	{
+		"id": 274,
+		"word": "dissolution",
+		"variant": 1,
+		"meaning": "disintegration; looseness in morals",
+		"ratio": 0.75
+	},
+	{
+		"id": 275,
+		"word": "dissonance",
+		"variant": 2,
+		"meaning": "discord; opposite of harmony",
+		"ratio": 1.0777027027027
+	},
+	{
+		"id": 276,
+		"word": "distend",
+		"variant": 2,
+		"meaning": "expand; swell out",
+		"ratio": 1.11821086261981
+	},
+	{
+		"id": 277,
+		"word": "distort",
+		"variant": 2,
+		"meaning": " to change from the original shape or",
+		"ratio": -1
+	},
+	{
+		"id": 278,
+		"word": "distribute",
+		"variant": 2,
+		"meaning": "to divide among people",
+		"ratio": -1
+	},
+	{
+		"id": 279,
+		"word": "diverse",
+		"variant": 3,
+		"meaning": "various; distinct from others",
+		"ratio": 0.823333333333333
+	},
+	{
+		"id": 280,
+		"word": "dupe",
+		"variant": 1,
+		"meaning": "someone easily fooled",
+		"ratio": 0.86
+	},
+	{
+		"id": 281,
+		"word": "ebullient",
+		"variant": 3,
+		"meaning": "showing excitement; overflowing with enthusiasm",
+		"ratio": 0.6
+	},
+	{
+		"id": 282,
+		"word": "edify",
+		"variant": 2,
+		"meaning": "instruct; correct morally",
+		"ratio": 0.922222222222222
+	},
+	{
+		"id": 283,
+		"word": "efface",
+		"variant": 2,
+		"meaning": "rub out",
+		"ratio": 0.885
+	},
+	{
+		"id": 284,
+		"word": "effervesce",
+		"variant": 1,
+		"meaning": "inner excitement or exuberance; bubbling",
+		"ratio": 0.75
+	},
+	{
+		"id": 285,
+		"word": "elegy",
+		"variant": 1,
+		"meaning": "poem or song expressing lamentation",
+		"ratio": 0.75
+	},
+	{
+		"id": 286,
+		"word": "elicit",
+		"variant": 2,
+		"meaning": "to get the facts",
+		"ratio": 1.18333333333333
+	},
+	{
+		"id": 287,
+		"word": "elucidate",
+		"variant": 2,
+		"meaning": "explain; enlighten",
+		"ratio": 0.678333333333333
+	},
+	{
+		"id": 288,
+		"word": "emaciated",
+		"variant": 3,
+		"meaning": "thin and wasted",
+		"ratio": 1.43243243243243
+	},
+	{
+		"id": 289,
+		"word": "emend",
+		"variant": 2,
+		"meaning": "correct; correct by a critic",
+		"ratio": 0.879120879120879
+	},
+	{
+		"id": 290,
+		"word": "encourage",
+		"variant": 2,
+		"meaning": "to give courage",
+		"ratio": 1.29428571428571
+	},
+	{
+		"id": 291,
+		"word": "enhance",
+		"variant": 2,
+		"meaning": "to increase in a positive way, such as in value, power, or beauty",
+		"ratio": 0.992
+	},
+	{
+		"id": 292,
+		"word": "enrich",
+		"variant": 2,
+		"meaning": "to make something of greater value",
+		"ratio": -1
+	},
+	{
+		"id": 293,
+		"word": "equanimity",
+		"variant": 1,
+		"meaning": "calmness of temperament; composure",
+		"ratio": 1.3025
+	},
+	{
+		"id": 294,
+		"word": "equitable",
+		"variant": 3,
+		"meaning": "fair; impartial",
+		"ratio": 0.65
+	},
+	{
+		"id": 295,
+		"word": "evanescent",
+		"variant": 3,
+		"meaning": "fleeting; vanishing",
+		"ratio": 0.623239436619718
+	},
+	{
+		"id": 296,
+		"word": "exceedingly",
+		"variant": 4,
+		"meaning": "very; to an unusual degree",
+		"ratio": -1
+	},
+	{
+		"id": 297,
+		"word": "excerpt",
+		"variant": 1,
+		"meaning": "selected passage (written or musical)",
+		"ratio": 0.673333333333333
+	},
+	{
+		"id": 298,
+		"word": "fallow",
+		"variant": 3,
+		"meaning": "plowed but not sowed; uncultivated",
+		"ratio": 1.50093808630394
+	},
+	{
+		"id": 299,
+		"word": "falter",
+		"variant": 2,
+		"meaning": "hesitate",
+		"ratio": 1.282
+	},
+	{
+		"id": 300,
+		"word": "fathom",
+		"variant": 2,
+		"meaning": "comprehend; investigate",
+		"ratio": 1.03284671532847
+	},
+	{
+		"id": 301,
+		"word": "fell",
+		"variant": 2,
+		"meaning": "cut or knock down; bring down (with a missile)",
+		"ratio": 1.5
+	},
+	{
+		"id": 302,
+		"word": "fitful",
+		"variant": 3,
+		"meaning": "spasmodic; intermittent",
+		"ratio": 0.66543438077634
+	},
+	{
+		"id": 303,
+		"word": "flaw",
+		"variant": 1,
+		"meaning": "a small sign of damage that makes the item imerfect",
+		"ratio": 0.749034749034749
+	},
+	{
+		"id": 304,
+		"word": "florid",
+		"variant": 3,
+		"meaning": "ruddy; reddish; flowery",
+		"ratio": 1.41666666666667
+	},
+	{
+		"id": 305,
+		"word": "foolhardy",
+		"variant": 3,
+		"meaning": "rash",
+		"ratio": 0.872521246458924
+	},
+	{
+		"id": 306,
+		"word": "forbid",
+		"variant": 2,
+		"meaning": "to command not to do something",
+		"ratio": 1.32890365448505
+	},
+	{
+		"id": 307,
+		"word": "frail",
+		"variant": 3,
+		"meaning": "weak in health",
+		"ratio": 1.17791411042945
+	},
+	{
+		"id": 308,
+		"word": "gigantic",
+		"variant": 3,
+		"meaning": "very large",
+		"ratio": 0.808421052631579
+	},
+	{
+		"id": 309,
+		"word": "glacial",
+		"variant": 3,
+		"meaning": "Iike a glacier; extremely cold",
+		"ratio": 0.665185185185185
+	},
+	{
+		"id": 310,
+		"word": "hackneyed",
+		"variant": 3,
+		"meaning": "commonplace; trite",
+		"ratio": 1.26706827309237
+	},
+	{
+		"id": 311,
+		"word": "haphazardly",
+		"variant": 4,
+		"meaning": "having no order or pattern",
+		"ratio": 1.50501672240803
+	},
+	{
+		"id": 312,
+		"word": "harvest",
+		"variant": 1,
+		"meaning": "the act of collecting a crop",
+		"ratio": 0.666
+	},
+	{
+		"id": 313,
+		"word": "hyperbole",
+		"variant": 1,
+		"meaning": "exaggeration; overstatement",
+		"ratio": 0.5
+	},
+	{
+		"id": 314,
+		"word": "iconoclastic",
+		"variant": 3,
+		"meaning": "attacking cherished traditions",
+		"ratio": 0.888571428571429
+	},
+	{
+		"id": 315,
+		"word": "ideal",
+		"variant": 3,
+		"meaning": "having no flaw",
+		"ratio": 0.666666666666667
+	},
+	{
+		"id": 316,
+		"word": "ignominy",
+		"variant": 1,
+		"meaning": "deep disgrace; shame",
+		"ratio": 0.61633281972265
+	},
+	{
+		"id": 317,
+		"word": "illicit",
+		"variant": 3,
+		"meaning": "illegal",
+		"ratio": 0.753424657534247
+	},
+	{
+		"id": 318,
+		"word": "immense",
+		"variant": 3,
+		"meaning": "extremely larg",
+		"ratio": 0.743333333333333
+	},
+	{
+		"id": 319,
+		"word": "impecunious",
+		"variant": 3,
+		"meaning": "without money",
+		"ratio": -1
+	},
+	{
+		"id": 320,
+		"word": "impregnable",
+		"variant": 3,
+		"meaning": "invulnerable",
+		"ratio": 0.8
+	},
+	{
+		"id": 321,
+		"word": "incidental",
+		"variant": 3,
+		"meaning": "not essential; minor",
+		"ratio": 1.03409090909091
+	},
+	{
+		"id": 322,
+		"word": "incontrovertible",
+		"variant": 3,
+		"meaning": "indisputable; not open to question",
+		"ratio": -1
+	},
+	{
+		"id": 323,
+		"word": "indeed",
+		"variant": 4,
+		"meaning": "certainly; really; truly",
+		"ratio": -1
+	},
+	{
+		"id": 324,
+		"word": "indefatigable",
+		"variant": 3,
+		"meaning": "tireless",
+		"ratio": 0.919101123595506
+	},
+	{
+		"id": 325,
+		"word": "indolent",
+		"variant": 3,
+		"meaning": "lazy",
+		"ratio": 0.75
+	},
+	{
+		"id": 326,
+		"word": "ineffable",
+		"variant": 3,
+		"meaning": "unutterable",
+		"ratio": 1.07744107744108
+	},
+	{
+		"id": 327,
+		"word": "inexorable",
+		"variant": 3,
+		"meaning": "relentless; unyielding",
+		"ratio": 0.91063829787234
+	},
+	{
+		"id": 328,
+		"word": "insolvent",
+		"variant": 3,
+		"meaning": "bankrupt",
+		"ratio": 1.09818181818182
+	},
+	{
+		"id": 329,
+		"word": "insuperable",
+		"variant": 3,
+		"meaning": "insurmountable; unbeatable",
+		"ratio": 1.2225
+	},
+	{
+		"id": 330,
+		"word": "intensify",
+		"variant": 2,
+		"meaning": "to make stronger in feeling",
+		"ratio": 0.828351012536162
+	},
+	{
+		"id": 331,
+		"word": "intolerable",
+		"variant": 3,
+		"meaning": "difficult or painful to experience",
+		"ratio": 0.5
+	},
+	{
+		"id": 332,
+		"word": "intractable",
+		"variant": 3,
+		"meaning": "Hard to control or deal with",
+		"ratio": 0.913333333333333
+	},
+	{
+		"id": 333,
+		"word": "intrigue",
+		"variant": 6,
+		"meaning": "to interest greatly",
+		"ratio": 1.40217391304348
+	},
+	{
+		"id": 334,
+		"word": "irreproachable",
+		"variant": 3,
+		"meaning": "blameless; impeccable",
+		"ratio": 1
+	},
+	{
+		"id": 335,
+		"word": "jocular",
+		"variant": 3,
+		"meaning": "said or done in jest",
+		"ratio": 0.8
+	},
+	{
+		"id": 336,
+		"word": "labyrinth",
+		"variant": 1,
+		"meaning": "maze",
+		"ratio": 0.704545454545455
+	},
+	{
+		"id": 337,
+		"word": "laconic",
+		"variant": 3,
+		"meaning": "brief and to the point",
+		"ratio": 0.654205607476636
+	},
+	{
+		"id": 338,
+		"word": "laggard",
+		"variant": 3,
+		"meaning": "slow; sluggish",
+		"ratio": -1
+	},
+	{
+		"id": 339,
+		"word": "lampoon",
+		"variant": 2,
+		"meaning": "ridicule",
+		"ratio": 1.02100840336134
+	},
+	{
+		"id": 340,
+		"word": "lassitude",
+		"variant": 1,
+		"meaning": "languor; weariness",
+		"ratio": 1.15384615384615
+	},
+	{
+		"id": 341,
+		"word": "observe",
+		"variant": 2,
+		"meaning": "to see and watch carefully",
+		"ratio": 1.2925
+	},
+	{
+		"id": 342,
+		"word": "ongoing",
+		"variant": 3,
+		"meaning": "continuing; currently active",
+		"ratio": 1.190625
+	},
+	{
+		"id": 343,
+		"word": "persistent",
+		"variant": 3,
+		"meaning": "continuous, refusing to give up",
+		"ratio": 0.85625
+	},
+	{
+		"id": 344,
+		"word": "persuade",
+		"variant": 2,
+		"meaning": "to change a belief or behavior by argument or reason",
+		"ratio": 0.951428571428571
+	},
+	{
+		"id": 345,
+		"word": "petition",
+		"variant": 2,
+		"meaning": "to make a request",
+		"ratio": 0.672985781990521
+	},
+	{
+		"id": 346,
+		"word": "propose",
+		"variant": 2,
+		"meaning": "to suggest",
+		"ratio": -1
+	},
+	{
+		"id": 347,
+		"word": "prosperous",
+		"variant": 3,
+		"meaning": "successful, wealthy",
+		"ratio": 1.33333333333333
+	},
+	{
+		"id": 348,
+		"word": "purposefully",
+		"variant": 4,
+		"meaning": "done for a special reason",
+		"ratio": 1.58333333333333
+	},
+	{
+		"id": 349,
+		"word": "refine",
+		"variant": 2,
+		"meaning": "to make pure",
+		"ratio": 1.00806451612903
+	},
+	{
+		"id": 350,
+		"word": "relinquish",
+		"variant": 2,
+		"meaning": "to give up control",
+		"ratio": 1
+	},
+	{
+		"id": 351,
+		"word": "resilient",
+		"variant": 3,
+		"meaning": "strong enough to recover from difficulty",
+		"ratio": 0.538461538461538
+	},
+	{
+		"id": 352,
+		"word": "restore",
+		"variant": 2,
+		"meaning": " to return to the original condition",
+		"ratio": 0.8
+	},
+	{
+		"id": 353,
+		"word": "reveal",
+		"variant": 2,
+		"meaning": "to uncover; reveal",
+		"ratio": 0.833333333333333
+	},
+	{
+		"id": 354,
+		"word": "rigid",
+		"variant": 3,
+		"meaning": "not easy to bend",
+		"ratio": 1.38
+	},
+	{
+		"id": 355,
+		"word": "routinely",
+		"variant": 4,
+		"meaning": "regularly, usually done",
+		"ratio": 0.757142857142857
+	},
+	{
+		"id": 356,
+		"word": "scarcely",
+		"variant": 4,
+		"meaning": "almost not",
+		"ratio": -1
+	},
+	{
+		"id": 357,
+		"word": "tempt",
+		"variant": 2,
+		"meaning": "to make it attractive to do something wrong",
+		"ratio": 0.68
+	},
+	{
+		"id": 358,
+		"word": "theoretically",
+		"variant": 4,
+		"meaning": "according to a reasoned, but not theoretical proven",
+		"ratio": 0.612307692307692
+	},
+	{
+		"id": 359,
+		"word": "treasury",
+		"variant": 1,
+		"meaning": "the agency that controls and spends money",
+		"ratio": 0.75
+	},
+	{
+		"id": 360,
+		"word": "unique",
+		"variant": 3,
+		"meaning": "to be the only one of a kind",
+		"ratio": -1
+	},
+	{
+		"id": 361,
+		"word": "vital",
+		"variant": 3,
+		"meaning": "of great importance",
+		"ratio": 0.653333333333333
+	},
+	{
+		"id": 362,
+		"word": "worthwhile",
+		"variant": 3,
+		"meaning": "value in doing something",
+		"ratio": 0.76
+	}
+]
